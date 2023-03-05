@@ -74,7 +74,7 @@ body{
 
 /* Testimonial */
 #testimonials{
-padding: 7% 15%;
+
 text-align: center;
 background-color: #ef8172;
 color: #fff;
@@ -95,4 +95,7 @@ color: #fff;
     width:10%;
     margin: 30px;
     
+}
+.carousel-item{
+   padding: 7% 15%; 
 }
